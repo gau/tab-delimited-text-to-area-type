@@ -18,6 +18,7 @@
 
 ### インストール方法
 
+1. 右上の「Download ZIP」から圧縮ファイルをダウンロードして解凍します。
 1. 以下の場所に、「タブ区切り文字をエリア内文字に変換.jsx」をコピーします。Windows版ではお使いのIllustratorのモードによって保存する場所が異なりますのでご注意ください。
 	* 【Mac】/Applications/Adobe Illustrator {バージョン}/Presets/ja_JP/スクリプト/
 	* 【Win32】C:\Program Files\Adobe\Adobe Illustrator {バージョン}\Presets\ja_JP\スクリプト\
