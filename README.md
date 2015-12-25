@@ -44,9 +44,9 @@
 3. `ファイル > スクリプト > タブ区切り文字をエリア内文字に変換`を選択します。
 4. 長方形の大きさに合わせ、エリア内文字がタイル状に作成されます。元の長方形は削除されます。
 
-#### 参考動画
+#### 参考デモ動画（YouTube）
 
-[![デモ動画](http://img.youtube.com/vi/1f-_eooy6cQ/0.jpg)](https://www.youtube.com/watch?v=1f-_eooy6cQ)
+[![動画を見る](http://img.youtube.com/vi/1f-_eooy6cQ/0.jpg)](https://www.youtube.com/watch?v=1f-_eooy6cQ)
 
 -----
 
