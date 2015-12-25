@@ -29,9 +29,7 @@
 
 ### 使い方
 
-#### デモ動画
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/1f-_eooy6cQ" frameborder="0" allowfullscreen></iframe>
+[![デモ動画](http://img.youtube.com/vi/1f-_eooy6cQ/0.jpg)](https://www.youtube.com/watch?v=1f-_eooy6cQ)
 
 #### エリア内文字の作成範囲を数値で指定する場合
 
